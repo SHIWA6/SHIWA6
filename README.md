@@ -32,8 +32,6 @@ My code? Surprisingly clean (at least on the days I don’t rage commit). I keep
 
 ---
 
-### 🎨 Bonus Aesthetic View
-
 <div align="center">
   
   <img src="https://readme-components.vercel.app/api?component=logo&logo=html5&fill=linear-gradient(to%20right,%23ff512f,%23dd2476)&animation=spin" height="70" />
@@ -46,12 +44,7 @@ My code? Surprisingly clean (at least on the days I don’t rage commit). I keep
 
 ---
 
-### 🚀 Tools I Love
-- 🖌️ **TailwindCSS** for design that actually looks alive.  
-- ⚡ **React + Node.js** for building stuff fast and smooth.  
-- 🌐 **MongoDB & Express** because I like my data spicy.  
-- 🛠️ **Git + GitHub** → version control but make it aesthetic.  
-- ✍️ **VS Code** → where magic & bugs live together.  
+
 
 
 ### 🌍 Connect with me
