@@ -13,14 +13,11 @@ My code? Surprisingly clean (at least on the days I don’t rage commit). I keep
 
 
 
-### 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIWA6&layout=compact&theme=radical)
 
 
 
 
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHIWA6&theme=radical&hide_border=false)
+
 
 
 
@@ -43,6 +40,15 @@ My code? Surprisingly clean (at least on the days I don’t rage commit). I keep
 </div>
 
 ---
+
+
+### 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIWA6&layout=compact&theme=radical)
+
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHIWA6&theme=radical&hide_border=false)
+
 
 
 
