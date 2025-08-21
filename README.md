@@ -11,27 +11,48 @@ My code? Surprisingly clean (at least on the days I don’t rage commit). I keep
 📫 Reach me at: shivapanday9616527173@gmail.com
 
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIWA6&show_icons=true&theme=radical)
+
 
 ### 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIWA6&layout=compact&theme=radical)
 
 
-### 📊 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHIWA6&theme=radical)
+
 
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHIWA6&theme=radical&hide_border=false)
 
 
 
-### ⚡ Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 🎨 Bonus Aesthetic View
+
+<div align="center">
+  
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=html5&fill=linear-gradient(to%20right,%23ff512f,%23dd2476)&animation=spin" height="70" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=css3&fill=linear-gradient(to%20right,%2338ef7d,%2311998e)&animation=spin" height="70" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=linear-gradient(to%20right,%23f7971e,%23ffd200)&animation=spin" height="70" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=react&fill=linear-gradient(to%20right,%2361dafb,%2320232a)&animation=spin" height="70" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=linear-gradient(to%20right,%236DA55F,%2333cc33)&animation=spin" height="70" />
+  
+</div>
+
+---
+
+### 🚀 Tools I Love
+- 🖌️ **TailwindCSS** for design that actually looks alive.  
+- ⚡ **React + Node.js** for building stuff fast and smooth.  
+- 🌐 **MongoDB & Express** because I like my data spicy.  
+- 🛠️ **Git + GitHub** → version control but make it aesthetic.  
+- ✍️ **VS Code** → where magic & bugs live together.  
+
 
 ### 🌍 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
