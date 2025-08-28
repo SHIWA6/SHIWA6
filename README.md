@@ -4,9 +4,8 @@ This is my digital corner where I throw half-baked ideas, questionable experimen
 
 I survive mostly on late-night caffeine boosts, stubbornness, and a never-ending loop of debugging. Bugs in my code? Yeah, I collect them like NFTs nobody asked for — rare, frustrating, but somehow addictive. Also, GUIs and I… let’s just say we’re still negotiating our friendship.  
 
-My code? Surprisingly clean (at least on the days I don’t rage commit). I keep a pile of “to-read” books that silently judge me while I jam to music that matches my current chaos level. When I’m not deep in the matrix, I either hop on a ride, watch anime, or get lost in whatever random obsession is trending in my brain.  
+My code? Surprisingly clean (at least on the days I don’t rage commit). I keep a pile of “to-read” books that silently judge me while I jam to music that matches my current chaos level. When I’m not deep in the matrix, I either hop on a ride, watch anime, or get lost in whatever random obsession is trending in my brain.   
 
-⚠️ Warning: May contain accidental strokes of brilliance.  
 
 📫 Reach me at: shivapanday9616527173@gmail.com
 
